@@ -19,28 +19,16 @@
       "price": 5.99
     },
     {
-      "id": 4,
-      "name": "Pothos",
-      "image": "./images/pothos.jpg",
-      "price": 12.11
+      "name": "victor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoyu_Ramen.jpg/1200px-Shoyu_Ramen.jpg",
+      "price": "0.03",
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Jade",
-      "image": "./images/jade.jpg",
-      "price": 10.37
-    },
-    {
-      "id": 6,
-      "name": "Monstera Deliciosa",
-      "image": "./images/monstera.jpg",
-      "price": 25.99
-    },
-    {
-      "id": 7,
-      "name": "Fiddle Leaf Fig",
-      "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "name": "victor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoyu_Ramen.jpg/1200px-Shoyu_Ramen.jpg",
+      "price": "0.06",
+      "id": 5
     }
   ]
 }
